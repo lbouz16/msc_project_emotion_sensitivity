@@ -1,0 +1,143 @@
+Post_ID,Human_Emotion,Count,Total,Percent
+Q01,Anger,1,20,5.0
+Q01,Disgust,1,20,5.0
+Q01,Distrust,3,20,15.0
+Q01,Fear / Anxiety,9,20,45.0
+Q01,Love,2,20,10.0
+Q01,Sadness,1,20,5.0
+Q01,Surprise,2,20,10.0
+Q01,Trust,1,20,5.0
+Q02,Anger,2,20,10.0
+Q02,Confusion,1,20,5.0
+Q02,Disgust,1,20,5.0
+Q02,Distrust,1,20,5.0
+Q02,Hate,1,20,5.0
+Q02,Sadness,13,20,65.0
+Q02,Trust,1,20,5.0
+Q03,Joy,20,20,100.0
+Q04,Anticipation,3,20,15.0
+Q04,Confusion,2,20,10.0
+Q04,Distrust,1,20,5.0
+Q04,Fear / Anxiety,2,20,10.0
+Q04,Hunger,2,20,10.0
+Q04,Sadness,8,20,40.0
+Q04,Sarcasm,2,20,10.0
+Q05,Anger,3,20,15.0
+Q05,Anticipation,1,20,5.0
+Q05,Disgust,2,20,10.0
+Q05,Fear / Anxiety,1,20,5.0
+Q05,Hate,1,20,5.0
+Q05,Joy,2,20,10.0
+Q05,Laughter,1,20,5.0
+Q05,Sadness,1,20,5.0
+Q05,Sarcasm,5,20,25.0
+Q05,Trust,3,20,15.0
+Q06,Anticipation,1,20,5.0
+Q06,Familiar,1,20,5.0
+Q06,Fear,4,20,20.0
+Q06,Fear / Anxiety,4,20,20.0
+Q06,Funny,1,20,5.0
+Q06,Hate,1,20,5.0
+Q06,Not Funny,1,20,5.0
+Q06,Sadness,1,20,5.0
+Q06,Sarcasm,6,20,30.0
+Q07,Anger,1,20,5.0
+Q07,Fear,4,20,20.0
+Q07,Funny,1,20,5.0
+Q07,Hate,1,20,5.0
+Q07,Laughter,1,20,5.0
+Q07,Love,1,20,5.0
+Q07,Not Funny,1,20,5.0
+Q07,Sadness,1,20,5.0
+Q07,Sarcasm,9,20,45.0
+Q08,Anger,2,20,10.0
+Q08,Anticipation,6,20,30.0
+Q08,Confusion,1,20,5.0
+Q08,Disgust,4,20,20.0
+Q08,Distrust,1,20,5.0
+Q08,Hate,1,20,5.0
+Q08,Joy,2,20,10.0
+Q08,Sadness,1,20,5.0
+Q08,Sarcasm,2,20,10.0
+Q09,Anger,6,20,30.0
+Q09,Anticipation,1,20,5.0
+Q09,Confusion,1,20,5.0
+Q09,Fear,3,20,15.0
+Q09,Fear / Anxiety,4,20,20.0
+Q09,Sadness,5,20,25.0
+Q10,Anger,12,20,60.0
+Q10,Distrust,1,20,5.0
+Q10,Hate,1,20,5.0
+Q10,Sadness,3,20,15.0
+Q10,Sarcasm,1,20,5.0
+Q10,Surprise,2,20,10.0
+Q11,Anger,5,20,25.0
+Q11,Anticipation,2,20,10.0
+Q11,Disgust,1,20,5.0
+Q11,Distrust,1,20,5.0
+Q11,Fear,1,20,5.0
+Q11,Hate,2,20,10.0
+Q11,Sadness,4,20,20.0
+Q11,Sarcasm,2,20,10.0
+Q11,Surprise,2,20,10.0
+Q12,Anger,1,20,5.0
+Q12,Anticipation,2,20,10.0
+Q12,Confusion,1,20,5.0
+Q12,Funny,2,20,10.0
+Q12,Joy,6,20,30.0
+Q12,Love,1,20,5.0
+Q12,Sarcasm,4,20,20.0
+Q12,Surprise,1,20,5.0
+Q12,Trust,2,20,10.0
+Q13,Anger,12,20,60.0
+Q13,Anticipation,2,20,10.0
+Q13,Disgust,3,20,15.0
+Q13,Distrust,1,20,5.0
+Q13,Sadness,1,20,5.0
+Q13,Sarcasm,1,20,5.0
+Q14,Anger,1,20,5.0
+Q14,Anticipation,1,20,5.0
+Q14,Disgust,1,20,5.0
+Q14,Fear / Anxiety,1,20,5.0
+Q14,Funny,1,20,5.0
+Q14,Hate,2,20,10.0
+Q14,Not Funny,1,20,5.0
+Q14,Sadness,1,20,5.0
+Q14,Sarcasm,11,20,55.00000000000001
+Q15,Anger,8,20,40.0
+Q15,Anticipation,3,20,15.0
+Q15,Disgust,1,20,5.0
+Q15,Fear / Anxiety,2,20,10.0
+Q15,Hate,1,20,5.0
+Q15,Sadness,1,20,5.0
+Q15,Sarcasm,2,20,10.0
+Q15,Surprise,2,20,10.0
+Q16,Anticipation,2,20,10.0
+Q16,Confusion,1,20,5.0
+Q16,Disgust,5,20,25.0
+Q16,Fear,3,20,15.0
+Q16,Joy,1,20,5.0
+Q16,Sadness,5,20,25.0
+Q16,Sarcasm,1,20,5.0
+Q16,Surprise,1,20,5.0
+Q16,Trust,1,20,5.0
+Q17,Fear / Anxiety,1,20,5.0
+Q17,Hate,5,20,25.0
+Q17,Sadness,13,20,65.0
+Q17,Surprise,1,20,5.0
+Q18,Anticipation,1,20,5.0
+Q18,Joy,2,20,10.0
+Q18,Love,9,20,45.0
+Q18,Trust,8,20,40.0
+Q19,Confusion,1,20,5.0
+Q19,Disgust,3,20,15.0
+Q19,Joy,5,20,25.0
+Q19,Not Funny,1,20,5.0
+Q19,Sadness,2,20,10.0
+Q19,Sarcasm,2,20,10.0
+Q19,Surprise,6,20,30.0
+Q20,Disgust,15,20,75.0
+Q20,Distrust,1,20,5.0
+Q20,Fear / Anxiety,1,20,5.0
+Q20,Hate,2,20,10.0
+Q20,Sarcasm,1,20,5.0

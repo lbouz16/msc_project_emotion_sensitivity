@@ -1,0 +1,3 @@
+Modality,N_docs,TopTermsCSV,WordCloudPNG
+Text-only,5475,/content/drive/MyDrive/msc_final_dataset/chapter4_results/wordclouds/tfidf_top_terms_Text-only.csv,/content/drive/MyDrive/msc_final_dataset/chapter4_results/wordclouds/wordcloud_Text-only.png
+Text+Image,491,/content/drive/MyDrive/msc_final_dataset/chapter4_results/wordclouds/tfidf_top_terms_Text_Image.csv,/content/drive/MyDrive/msc_final_dataset/chapter4_results/wordclouds/wordcloud_Text_Image.png

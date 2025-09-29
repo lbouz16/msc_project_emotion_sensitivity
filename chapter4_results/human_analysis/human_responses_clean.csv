@@ -1,0 +1,401 @@
+Respondent_ID,Post_ID,Age_Range,Gender,Familiarity,Frequency,Platform,Human_Emotion
+R001,Q01,25-34,Male,4,Daily,"Instagram, Twitter / X",Surprise
+R001,Q02,25-34,Male,4,Daily,"Instagram, Twitter / X",Disgust
+R001,Q03,25-34,Male,4,Daily,"Instagram, Twitter / X",Joy
+R001,Q04,25-34,Male,4,Daily,"Instagram, Twitter / X",Hunger
+R001,Q05,25-34,Male,4,Daily,"Instagram, Twitter / X",Anger
+R001,Q06,25-34,Male,4,Daily,"Instagram, Twitter / X",Not Funny
+R001,Q07,25-34,Male,4,Daily,"Instagram, Twitter / X",Funny
+R001,Q08,25-34,Male,4,Daily,"Instagram, Twitter / X",Anticipation
+R001,Q09,25-34,Male,4,Daily,"Instagram, Twitter / X",Confusion
+R001,Q10,25-34,Male,4,Daily,"Instagram, Twitter / X",Anger
+R001,Q11,25-34,Male,4,Daily,"Instagram, Twitter / X",Surprise
+R001,Q12,25-34,Male,4,Daily,"Instagram, Twitter / X",Sarcasm
+R001,Q13,25-34,Male,4,Daily,"Instagram, Twitter / X",Anger
+R001,Q14,25-34,Male,4,Daily,"Instagram, Twitter / X",Disgust
+R001,Q15,25-34,Male,4,Daily,"Instagram, Twitter / X",Disgust
+R001,Q16,25-34,Male,4,Daily,"Instagram, Twitter / X",Disgust
+R001,Q17,25-34,Male,4,Daily,"Instagram, Twitter / X",Sadness
+R001,Q18,25-34,Male,4,Daily,"Instagram, Twitter / X",Love
+R001,Q19,25-34,Male,4,Daily,"Instagram, Twitter / X",Surprise
+R001,Q20,25-34,Male,4,Daily,"Instagram, Twitter / X",Disgust
+R002,Q01,18-24,Female,5,Daily,"Instagram, Twitter / X, TikTok, Facebook",Fear / Anxiety
+R002,Q02,18-24,Female,5,Daily,"Instagram, Twitter / X, TikTok, Facebook",Sadness
+R002,Q03,18-24,Female,5,Daily,"Instagram, Twitter / X, TikTok, Facebook",Joy
+R002,Q04,18-24,Female,5,Daily,"Instagram, Twitter / X, TikTok, Facebook",Sadness
+R002,Q05,18-24,Female,5,Daily,"Instagram, Twitter / X, TikTok, Facebook",Sarcasm
+R002,Q06,18-24,Female,5,Daily,"Instagram, Twitter / X, TikTok, Facebook",Familiar
+R002,Q07,18-24,Female,5,Daily,"Instagram, Twitter / X, TikTok, Facebook",Love
+R002,Q08,18-24,Female,5,Daily,"Instagram, Twitter / X, TikTok, Facebook",Anger
+R002,Q09,18-24,Female,5,Daily,"Instagram, Twitter / X, TikTok, Facebook",Anger
+R002,Q10,18-24,Female,5,Daily,"Instagram, Twitter / X, TikTok, Facebook",Sadness
+R002,Q11,18-24,Female,5,Daily,"Instagram, Twitter / X, TikTok, Facebook",Sadness
+R002,Q12,18-24,Female,5,Daily,"Instagram, Twitter / X, TikTok, Facebook",Joy
+R002,Q13,18-24,Female,5,Daily,"Instagram, Twitter / X, TikTok, Facebook",Anger
+R002,Q14,18-24,Female,5,Daily,"Instagram, Twitter / X, TikTok, Facebook",Sarcasm
+R002,Q15,18-24,Female,5,Daily,"Instagram, Twitter / X, TikTok, Facebook",Sadness
+R002,Q16,18-24,Female,5,Daily,"Instagram, Twitter / X, TikTok, Facebook",Sadness
+R002,Q17,18-24,Female,5,Daily,"Instagram, Twitter / X, TikTok, Facebook",Sadness
+R002,Q18,18-24,Female,5,Daily,"Instagram, Twitter / X, TikTok, Facebook",Trust
+R002,Q19,18-24,Female,5,Daily,"Instagram, Twitter / X, TikTok, Facebook",Surprise
+R002,Q20,18-24,Female,5,Daily,"Instagram, Twitter / X, TikTok, Facebook",Disgust
+R003,Q01,18-24,Female,5,Daily,Instagram,Fear / Anxiety
+R003,Q02,18-24,Female,5,Daily,Instagram,Sadness
+R003,Q03,18-24,Female,5,Daily,Instagram,Joy
+R003,Q04,18-24,Female,5,Daily,Instagram,Anticipation
+R003,Q05,18-24,Female,5,Daily,Instagram,Sadness
+R003,Q06,18-24,Female,5,Daily,Instagram,Sarcasm
+R003,Q07,18-24,Female,5,Daily,Instagram,Sarcasm
+R003,Q08,18-24,Female,5,Daily,Instagram,Disgust
+R003,Q09,18-24,Female,5,Daily,Instagram,Fear
+R003,Q10,18-24,Female,5,Daily,Instagram,Anger
+R003,Q11,18-24,Female,5,Daily,Instagram,Anger
+R003,Q12,18-24,Female,5,Daily,Instagram,Joy
+R003,Q13,18-24,Female,5,Daily,Instagram,Anger
+R003,Q14,18-24,Female,5,Daily,Instagram,Sarcasm
+R003,Q15,18-24,Female,5,Daily,Instagram,Anticipation
+R003,Q16,18-24,Female,5,Daily,Instagram,Sadness
+R003,Q17,18-24,Female,5,Daily,Instagram,Sadness
+R003,Q18,18-24,Female,5,Daily,Instagram,Love
+R003,Q19,18-24,Female,5,Daily,Instagram,Surprise
+R003,Q20,18-24,Female,5,Daily,Instagram,Disgust
+R004,Q01,18-24,Female,5,Daily,Instagram,Fear / Anxiety
+R004,Q02,18-24,Female,5,Daily,Instagram,Sadness
+R004,Q03,18-24,Female,5,Daily,Instagram,Joy
+R004,Q04,18-24,Female,5,Daily,Instagram,Hunger
+R004,Q05,18-24,Female,5,Daily,Instagram,Sarcasm
+R004,Q06,18-24,Female,5,Daily,Instagram,Sarcasm
+R004,Q07,18-24,Female,5,Daily,Instagram,Sarcasm
+R004,Q08,18-24,Female,5,Daily,Instagram,Distrust
+R004,Q09,18-24,Female,5,Daily,Instagram,Sadness
+R004,Q10,18-24,Female,5,Daily,Instagram,Anger
+R004,Q11,18-24,Female,5,Daily,Instagram,Disgust
+R004,Q12,18-24,Female,5,Daily,Instagram,Love
+R004,Q13,18-24,Female,5,Daily,Instagram,Anger
+R004,Q14,18-24,Female,5,Daily,Instagram,Sarcasm
+R004,Q15,18-24,Female,5,Daily,Instagram,Sarcasm
+R004,Q16,18-24,Female,5,Daily,Instagram,Sadness
+R004,Q17,18-24,Female,5,Daily,Instagram,Sadness
+R004,Q18,18-24,Female,5,Daily,Instagram,Love
+R004,Q19,18-24,Female,5,Daily,Instagram,Surprise
+R004,Q20,18-24,Female,5,Daily,Instagram,Disgust
+R005,Q01,45+,Female,4,Weekly,"TikTok, Facebook",Surprise
+R005,Q02,45+,Female,4,Weekly,"TikTok, Facebook",Sadness
+R005,Q03,45+,Female,4,Weekly,"TikTok, Facebook",Joy
+R005,Q04,45+,Female,4,Weekly,"TikTok, Facebook",Sarcasm
+R005,Q05,45+,Female,4,Weekly,"TikTok, Facebook",Sarcasm
+R005,Q06,45+,Female,4,Weekly,"TikTok, Facebook",Sadness
+R005,Q07,45+,Female,4,Weekly,"TikTok, Facebook",Fear
+R005,Q08,45+,Female,4,Weekly,"TikTok, Facebook",Disgust
+R005,Q09,45+,Female,4,Weekly,"TikTok, Facebook",Anticipation
+R005,Q10,45+,Female,4,Weekly,"TikTok, Facebook",Hate
+R005,Q11,45+,Female,4,Weekly,"TikTok, Facebook",Anticipation
+R005,Q12,45+,Female,4,Weekly,"TikTok, Facebook",Sarcasm
+R005,Q13,45+,Female,4,Weekly,"TikTok, Facebook",Anger
+R005,Q14,45+,Female,4,Weekly,"TikTok, Facebook",Sadness
+R005,Q15,45+,Female,4,Weekly,"TikTok, Facebook",Anger
+R005,Q16,45+,Female,4,Weekly,"TikTok, Facebook",Surprise
+R005,Q17,45+,Female,4,Weekly,"TikTok, Facebook",Surprise
+R005,Q18,45+,Female,4,Weekly,"TikTok, Facebook",Joy
+R005,Q19,45+,Female,4,Weekly,"TikTok, Facebook",Sadness
+R005,Q20,45+,Female,4,Weekly,"TikTok, Facebook",Disgust
+R006,Q01,18-24,Female,5,Daily,"Instagram, Reddit, TikTok, Whatsapp/snapchat ",Fear / Anxiety
+R006,Q02,18-24,Female,5,Daily,"Instagram, Reddit, TikTok, Whatsapp/snapchat ",Sadness
+R006,Q03,18-24,Female,5,Daily,"Instagram, Reddit, TikTok, Whatsapp/snapchat ",Joy
+R006,Q04,18-24,Female,5,Daily,"Instagram, Reddit, TikTok, Whatsapp/snapchat ",Sadness
+R006,Q05,18-24,Female,5,Daily,"Instagram, Reddit, TikTok, Whatsapp/snapchat ",Anger
+R006,Q06,18-24,Female,5,Daily,"Instagram, Reddit, TikTok, Whatsapp/snapchat ",Sarcasm
+R006,Q07,18-24,Female,5,Daily,"Instagram, Reddit, TikTok, Whatsapp/snapchat ",Sarcasm
+R006,Q08,18-24,Female,5,Daily,"Instagram, Reddit, TikTok, Whatsapp/snapchat ",Hate
+R006,Q09,18-24,Female,5,Daily,"Instagram, Reddit, TikTok, Whatsapp/snapchat ",Anger
+R006,Q10,18-24,Female,5,Daily,"Instagram, Reddit, TikTok, Whatsapp/snapchat ",Anger
+R006,Q11,18-24,Female,5,Daily,"Instagram, Reddit, TikTok, Whatsapp/snapchat ",Hate
+R006,Q12,18-24,Female,5,Daily,"Instagram, Reddit, TikTok, Whatsapp/snapchat ",Trust
+R006,Q13,18-24,Female,5,Daily,"Instagram, Reddit, TikTok, Whatsapp/snapchat ",Anger
+R006,Q14,18-24,Female,5,Daily,"Instagram, Reddit, TikTok, Whatsapp/snapchat ",Sarcasm
+R006,Q15,18-24,Female,5,Daily,"Instagram, Reddit, TikTok, Whatsapp/snapchat ",Anger
+R006,Q16,18-24,Female,5,Daily,"Instagram, Reddit, TikTok, Whatsapp/snapchat ",Sadness
+R006,Q17,18-24,Female,5,Daily,"Instagram, Reddit, TikTok, Whatsapp/snapchat ",Sadness
+R006,Q18,18-24,Female,5,Daily,"Instagram, Reddit, TikTok, Whatsapp/snapchat ",Trust
+R006,Q19,18-24,Female,5,Daily,"Instagram, Reddit, TikTok, Whatsapp/snapchat ",Disgust
+R006,Q20,18-24,Female,5,Daily,"Instagram, Reddit, TikTok, Whatsapp/snapchat ",Disgust
+R007,Q01,18-24,Female,4,Daily,"Instagram, TikTok",Fear / Anxiety
+R007,Q02,18-24,Female,4,Daily,"Instagram, TikTok",Sadness
+R007,Q03,18-24,Female,4,Daily,"Instagram, TikTok",Joy
+R007,Q04,18-24,Female,4,Daily,"Instagram, TikTok",Anticipation
+R007,Q05,18-24,Female,4,Daily,"Instagram, TikTok",Hate
+R007,Q06,18-24,Female,4,Daily,"Instagram, TikTok",Sarcasm
+R007,Q07,18-24,Female,4,Daily,"Instagram, TikTok",Sarcasm
+R007,Q08,18-24,Female,4,Daily,"Instagram, TikTok",Disgust
+R007,Q09,18-24,Female,4,Daily,"Instagram, TikTok",Fear
+R007,Q10,18-24,Female,4,Daily,"Instagram, TikTok",Anger
+R007,Q11,18-24,Female,4,Daily,"Instagram, TikTok",Sarcasm
+R007,Q12,18-24,Female,4,Daily,"Instagram, TikTok",Surprise
+R007,Q13,18-24,Female,4,Daily,"Instagram, TikTok",Anger
+R007,Q14,18-24,Female,4,Daily,"Instagram, TikTok",Sarcasm
+R007,Q15,18-24,Female,4,Daily,"Instagram, TikTok",Anticipation
+R007,Q16,18-24,Female,4,Daily,"Instagram, TikTok",Fear
+R007,Q17,18-24,Female,4,Daily,"Instagram, TikTok",Sadness
+R007,Q18,18-24,Female,4,Daily,"Instagram, TikTok",Love
+R007,Q19,18-24,Female,4,Daily,"Instagram, TikTok",Surprise
+R007,Q20,18-24,Female,4,Daily,"Instagram, TikTok",Disgust
+R008,Q01,25-34,Female,5,Daily,"Instagram, TikTok",Fear / Anxiety
+R008,Q02,25-34,Female,5,Daily,"Instagram, TikTok",Sadness
+R008,Q03,25-34,Female,5,Daily,"Instagram, TikTok",Joy
+R008,Q04,25-34,Female,5,Daily,"Instagram, TikTok",Sarcasm
+R008,Q05,25-34,Female,5,Daily,"Instagram, TikTok",Joy
+R008,Q06,25-34,Female,5,Daily,"Instagram, TikTok",Sarcasm
+R008,Q07,25-34,Female,5,Daily,"Instagram, TikTok",Sadness
+R008,Q08,25-34,Female,5,Daily,"Instagram, TikTok",Disgust
+R008,Q09,25-34,Female,5,Daily,"Instagram, TikTok",Sadness
+R008,Q10,25-34,Female,5,Daily,"Instagram, TikTok",Sadness
+R008,Q11,25-34,Female,5,Daily,"Instagram, TikTok",Fear
+R008,Q12,25-34,Female,5,Daily,"Instagram, TikTok",Joy
+R008,Q13,25-34,Female,5,Daily,"Instagram, TikTok",Disgust
+R008,Q14,25-34,Female,5,Daily,"Instagram, TikTok",Sarcasm
+R008,Q15,25-34,Female,5,Daily,"Instagram, TikTok",Anticipation
+R008,Q16,25-34,Female,5,Daily,"Instagram, TikTok",Anticipation
+R008,Q17,25-34,Female,5,Daily,"Instagram, TikTok",Sadness
+R008,Q18,25-34,Female,5,Daily,"Instagram, TikTok",Love
+R008,Q19,25-34,Female,5,Daily,"Instagram, TikTok",Surprise
+R008,Q20,25-34,Female,5,Daily,"Instagram, TikTok",Disgust
+R009,Q01,25-34,Male,4,Daily,"Instagram, TikTok",Fear / Anxiety
+R009,Q02,25-34,Male,4,Daily,"Instagram, TikTok",Sadness
+R009,Q03,25-34,Male,4,Daily,"Instagram, TikTok",Joy
+R009,Q04,25-34,Male,4,Daily,"Instagram, TikTok",Sadness
+R009,Q05,25-34,Male,4,Daily,"Instagram, TikTok",Joy
+R009,Q06,25-34,Male,4,Daily,"Instagram, TikTok",Fear
+R009,Q07,25-34,Male,4,Daily,"Instagram, TikTok",Sarcasm
+R009,Q08,25-34,Male,4,Daily,"Instagram, TikTok",Sarcasm
+R009,Q09,25-34,Male,4,Daily,"Instagram, TikTok",Sadness
+R009,Q10,25-34,Male,4,Daily,"Instagram, TikTok",Anger
+R009,Q11,25-34,Male,4,Daily,"Instagram, TikTok",Anger
+R009,Q12,25-34,Male,4,Daily,"Instagram, TikTok",Anticipation
+R009,Q13,25-34,Male,4,Daily,"Instagram, TikTok",Anticipation
+R009,Q14,25-34,Male,4,Daily,"Instagram, TikTok",Anger
+R009,Q15,25-34,Male,4,Daily,"Instagram, TikTok",Anger
+R009,Q16,25-34,Male,4,Daily,"Instagram, TikTok",Joy
+R009,Q17,25-34,Male,4,Daily,"Instagram, TikTok",Hate
+R009,Q18,25-34,Male,4,Daily,"Instagram, TikTok",Trust
+R009,Q19,25-34,Male,4,Daily,"Instagram, TikTok",Joy
+R009,Q20,25-34,Male,4,Daily,"Instagram, TikTok",Disgust
+R010,Q01,25-34,Male,4,Daily,"Instagram, TikTok",Fear / Anxiety
+R010,Q02,25-34,Male,4,Daily,"Instagram, TikTok",Sadness
+R010,Q03,25-34,Male,4,Daily,"Instagram, TikTok",Joy
+R010,Q04,25-34,Male,4,Daily,"Instagram, TikTok",Sadness
+R010,Q05,25-34,Male,4,Daily,"Instagram, TikTok",Sarcasm
+R010,Q06,25-34,Male,4,Daily,"Instagram, TikTok",Fear
+R010,Q07,25-34,Male,4,Daily,"Instagram, TikTok",Sarcasm
+R010,Q08,25-34,Male,4,Daily,"Instagram, TikTok",Sarcasm
+R010,Q09,25-34,Male,4,Daily,"Instagram, TikTok",Sadness
+R010,Q10,25-34,Male,4,Daily,"Instagram, TikTok",Anger
+R010,Q11,25-34,Male,4,Daily,"Instagram, TikTok",Anger
+R010,Q12,25-34,Male,4,Daily,"Instagram, TikTok",Anticipation
+R010,Q13,25-34,Male,4,Daily,"Instagram, TikTok",Anticipation
+R010,Q14,25-34,Male,4,Daily,"Instagram, TikTok",Sarcasm
+R010,Q15,25-34,Male,4,Daily,"Instagram, TikTok",Anger
+R010,Q16,25-34,Male,4,Daily,"Instagram, TikTok",Disgust
+R010,Q17,25-34,Male,4,Daily,"Instagram, TikTok",Hate
+R010,Q18,25-34,Male,4,Daily,"Instagram, TikTok",Trust
+R010,Q19,25-34,Male,4,Daily,"Instagram, TikTok",Joy
+R010,Q20,25-34,Male,4,Daily,"Instagram, TikTok",Disgust
+R011,Q01,45+,Male,5,Daily,"Reddit, Twitter / X",Fear / Anxiety
+R011,Q02,45+,Male,5,Daily,"Reddit, Twitter / X",Sadness
+R011,Q03,45+,Male,5,Daily,"Reddit, Twitter / X",Joy
+R011,Q04,45+,Male,5,Daily,"Reddit, Twitter / X",Fear / Anxiety
+R011,Q05,45+,Male,5,Daily,"Reddit, Twitter / X",Trust
+R011,Q06,45+,Male,5,Daily,"Reddit, Twitter / X",Funny
+R011,Q07,45+,Male,5,Daily,"Reddit, Twitter / X",Sarcasm
+R011,Q08,45+,Male,5,Daily,"Reddit, Twitter / X",Anticipation
+R011,Q09,45+,Male,5,Daily,"Reddit, Twitter / X",Anger
+R011,Q10,45+,Male,5,Daily,"Reddit, Twitter / X",Distrust
+R011,Q11,45+,Male,5,Daily,"Reddit, Twitter / X",Hate
+R011,Q12,45+,Male,5,Daily,"Reddit, Twitter / X",Trust
+R011,Q13,45+,Male,5,Daily,"Reddit, Twitter / X",Distrust
+R011,Q14,45+,Male,5,Daily,"Reddit, Twitter / X",Hate
+R011,Q15,45+,Male,5,Daily,"Reddit, Twitter / X",Anger
+R011,Q16,45+,Male,5,Daily,"Reddit, Twitter / X",Sarcasm
+R011,Q17,45+,Male,5,Daily,"Reddit, Twitter / X",Sadness
+R011,Q18,45+,Male,5,Daily,"Reddit, Twitter / X",Love
+R011,Q19,45+,Male,5,Daily,"Reddit, Twitter / X",Disgust
+R011,Q20,45+,Male,5,Daily,"Reddit, Twitter / X",Disgust
+R012,Q01,45+,Female,5,Weekly,Twitter / X,Sadness
+R012,Q02,45+,Female,5,Weekly,Twitter / X,Sadness
+R012,Q03,45+,Female,5,Weekly,Twitter / X,Joy
+R012,Q04,45+,Female,5,Weekly,Twitter / X,Sadness
+R012,Q05,45+,Female,5,Weekly,Twitter / X,Trust
+R012,Q06,45+,Female,5,Weekly,Twitter / X,Hate
+R012,Q07,45+,Female,5,Weekly,Twitter / X,Sarcasm
+R012,Q08,45+,Female,5,Weekly,Twitter / X,Anticipation
+R012,Q09,45+,Female,5,Weekly,Twitter / X,Fear / Anxiety
+R012,Q10,45+,Female,5,Weekly,Twitter / X,Anger
+R012,Q11,45+,Female,5,Weekly,Twitter / X,Sadness
+R012,Q12,45+,Female,5,Weekly,Twitter / X,Anger
+R012,Q13,45+,Female,5,Weekly,Twitter / X,Disgust
+R012,Q14,45+,Female,5,Weekly,Twitter / X,Anticipation
+R012,Q15,45+,Female,5,Weekly,Twitter / X,Fear / Anxiety
+R012,Q16,45+,Female,5,Weekly,Twitter / X,Disgust
+R012,Q17,45+,Female,5,Weekly,Twitter / X,Fear / Anxiety
+R012,Q18,45+,Female,5,Weekly,Twitter / X,Love
+R012,Q19,45+,Female,5,Weekly,Twitter / X,Disgust
+R012,Q20,45+,Female,5,Weekly,Twitter / X,Hate
+R013,Q01,25-34,Male,4,Weekly,Reddit,Distrust
+R013,Q02,25-34,Male,4,Weekly,Reddit,Hate
+R013,Q03,25-34,Male,4,Weekly,Reddit,Joy
+R013,Q04,25-34,Male,4,Weekly,Reddit,Sadness
+R013,Q05,25-34,Male,4,Weekly,Reddit,Sarcasm
+R013,Q06,25-34,Male,4,Weekly,Reddit,Sarcasm
+R013,Q07,25-34,Male,4,Weekly,Reddit,Sarcasm
+R013,Q08,25-34,Male,4,Weekly,Reddit,Confusion
+R013,Q09,25-34,Male,4,Weekly,Reddit,Anger
+R013,Q10,25-34,Male,4,Weekly,Reddit,Anger
+R013,Q11,25-34,Male,4,Weekly,Reddit,Anger
+R013,Q12,25-34,Male,4,Weekly,Reddit,Sarcasm
+R013,Q13,25-34,Male,4,Weekly,Reddit,Sadness
+R013,Q14,25-34,Male,4,Weekly,Reddit,Not Funny
+R013,Q15,25-34,Male,4,Weekly,Reddit,Hate
+R013,Q16,25-34,Male,4,Weekly,Reddit,Trust
+R013,Q17,25-34,Male,4,Weekly,Reddit,Sadness
+R013,Q18,25-34,Male,4,Weekly,Reddit,Joy
+R013,Q19,25-34,Male,4,Weekly,Reddit,Sadness
+R013,Q20,25-34,Male,4,Weekly,Reddit,Distrust
+R014,Q01,35-44,Male,2,Weekly,Facebook,Love
+R014,Q02,35-44,Male,2,Weekly,Facebook,Anger
+R014,Q03,35-44,Male,2,Weekly,Facebook,Joy
+R014,Q04,35-44,Male,2,Weekly,Facebook,Sadness
+R014,Q05,35-44,Male,2,Weekly,Facebook,Laughter
+R014,Q06,35-44,Male,2,Weekly,Facebook,Fear / Anxiety
+R014,Q07,35-44,Male,2,Weekly,Facebook,Laughter
+R014,Q08,35-44,Male,2,Weekly,Facebook,Anticipation
+R014,Q09,35-44,Male,2,Weekly,Facebook,Sadness
+R014,Q10,35-44,Male,2,Weekly,Facebook,Sarcasm
+R014,Q11,35-44,Male,2,Weekly,Facebook,Anger
+R014,Q12,35-44,Male,2,Weekly,Facebook,Confusion
+R014,Q13,35-44,Male,2,Weekly,Facebook,Sarcasm
+R014,Q14,35-44,Male,2,Weekly,Facebook,Funny
+R014,Q15,35-44,Male,2,Weekly,Facebook,Surprise
+R014,Q16,35-44,Male,2,Weekly,Facebook,Disgust
+R014,Q17,35-44,Male,2,Weekly,Facebook,Sadness
+R014,Q18,35-44,Male,2,Weekly,Facebook,Trust
+R014,Q19,35-44,Male,2,Weekly,Facebook,Not Funny
+R014,Q20,35-44,Male,2,Weekly,Facebook,Hate
+R015,Q01,18-24,Female,4,Weekly,"Reddit, Twitter / X",Love
+R015,Q02,18-24,Female,4,Weekly,"Reddit, Twitter / X",Trust
+R015,Q03,18-24,Female,4,Weekly,"Reddit, Twitter / X",Joy
+R015,Q04,18-24,Female,4,Weekly,"Reddit, Twitter / X",Fear / Anxiety
+R015,Q05,18-24,Female,4,Weekly,"Reddit, Twitter / X",Trust
+R015,Q06,18-24,Female,4,Weekly,"Reddit, Twitter / X",Fear / Anxiety
+R015,Q07,18-24,Female,4,Weekly,"Reddit, Twitter / X",Fear
+R015,Q08,18-24,Female,4,Weekly,"Reddit, Twitter / X",Anger
+R015,Q09,18-24,Female,4,Weekly,"Reddit, Twitter / X",Fear / Anxiety
+R015,Q10,18-24,Female,4,Weekly,"Reddit, Twitter / X",Anger
+R015,Q11,18-24,Female,4,Weekly,"Reddit, Twitter / X",Sarcasm
+R015,Q12,18-24,Female,4,Weekly,"Reddit, Twitter / X",Joy
+R015,Q13,18-24,Female,4,Weekly,"Reddit, Twitter / X",Anger
+R015,Q14,18-24,Female,4,Weekly,"Reddit, Twitter / X",Hate
+R015,Q15,18-24,Female,4,Weekly,"Reddit, Twitter / X",Fear / Anxiety
+R015,Q16,18-24,Female,4,Weekly,"Reddit, Twitter / X",Disgust
+R015,Q17,18-24,Female,4,Weekly,"Reddit, Twitter / X",Hate
+R015,Q18,18-24,Female,4,Weekly,"Reddit, Twitter / X",Trust
+R015,Q19,18-24,Female,4,Weekly,"Reddit, Twitter / X",Sarcasm
+R015,Q20,18-24,Female,4,Weekly,"Reddit, Twitter / X",Fear / Anxiety
+R016,Q01,18-24,Male,4,Daily,Twitter / X,Distrust
+R016,Q02,18-24,Male,4,Daily,Twitter / X,Distrust
+R016,Q03,18-24,Male,4,Daily,Twitter / X,Joy
+R016,Q04,18-24,Male,4,Daily,Twitter / X,Anticipation
+R016,Q05,18-24,Male,4,Daily,Twitter / X,Anticipation
+R016,Q06,18-24,Male,4,Daily,Twitter / X,Fear / Anxiety
+R016,Q07,18-24,Male,4,Daily,Twitter / X,Not Funny
+R016,Q08,18-24,Male,4,Daily,Twitter / X,Sadness
+R016,Q09,18-24,Male,4,Daily,Twitter / X,Anger
+R016,Q10,18-24,Male,4,Daily,Twitter / X,Anger
+R016,Q11,18-24,Male,4,Daily,Twitter / X,Sadness
+R016,Q12,18-24,Male,4,Daily,Twitter / X,Sarcasm
+R016,Q13,18-24,Male,4,Daily,Twitter / X,Anger
+R016,Q14,18-24,Male,4,Daily,Twitter / X,Sarcasm
+R016,Q15,18-24,Male,4,Daily,Twitter / X,Anger
+R016,Q16,18-24,Male,4,Daily,Twitter / X,Confusion
+R016,Q17,18-24,Male,4,Daily,Twitter / X,Sadness
+R016,Q18,18-24,Male,4,Daily,Twitter / X,Trust
+R016,Q19,18-24,Male,4,Daily,Twitter / X,Joy
+R016,Q20,18-24,Male,4,Daily,Twitter / X,Disgust
+R017,Q01,25-34,Male,3,Daily,"Reddit, Twitter / X",Anger
+R017,Q02,25-34,Male,3,Daily,"Reddit, Twitter / X",Confusion
+R017,Q03,25-34,Male,3,Daily,"Reddit, Twitter / X",Joy
+R017,Q04,25-34,Male,3,Daily,"Reddit, Twitter / X",Confusion
+R017,Q05,25-34,Male,3,Daily,"Reddit, Twitter / X",Disgust
+R017,Q06,25-34,Male,3,Daily,"Reddit, Twitter / X",Fear / Anxiety
+R017,Q07,25-34,Male,3,Daily,"Reddit, Twitter / X",Fear
+R017,Q08,25-34,Male,3,Daily,"Reddit, Twitter / X",Joy
+R017,Q09,25-34,Male,3,Daily,"Reddit, Twitter / X",Anger
+R017,Q10,25-34,Male,3,Daily,"Reddit, Twitter / X",Surprise
+R017,Q11,25-34,Male,3,Daily,"Reddit, Twitter / X",Anticipation
+R017,Q12,25-34,Male,3,Daily,"Reddit, Twitter / X",Joy
+R017,Q13,25-34,Male,3,Daily,"Reddit, Twitter / X",Anger
+R017,Q14,25-34,Male,3,Daily,"Reddit, Twitter / X",Sarcasm
+R017,Q15,25-34,Male,3,Daily,"Reddit, Twitter / X",Anger
+R017,Q16,25-34,Male,3,Daily,"Reddit, Twitter / X",Sadness
+R017,Q17,25-34,Male,3,Daily,"Reddit, Twitter / X",Hate
+R017,Q18,25-34,Male,3,Daily,"Reddit, Twitter / X",Anticipation
+R017,Q19,25-34,Male,3,Daily,"Reddit, Twitter / X",Joy
+R017,Q20,25-34,Male,3,Daily,"Reddit, Twitter / X",Disgust
+R018,Q01,35-44,Female,4,Daily,"Reddit, Twitter / X",Trust
+R018,Q02,35-44,Female,4,Daily,"Reddit, Twitter / X",Sadness
+R018,Q03,35-44,Female,4,Daily,"Reddit, Twitter / X",Joy
+R018,Q04,35-44,Female,4,Daily,"Reddit, Twitter / X",Sadness
+R018,Q05,35-44,Female,4,Daily,"Reddit, Twitter / X",Anger
+R018,Q06,35-44,Female,4,Daily,"Reddit, Twitter / X",Fear
+R018,Q07,35-44,Female,4,Daily,"Reddit, Twitter / X",Fear
+R018,Q08,35-44,Female,4,Daily,"Reddit, Twitter / X",Joy
+R018,Q09,35-44,Female,4,Daily,"Reddit, Twitter / X",Fear
+R018,Q10,35-44,Female,4,Daily,"Reddit, Twitter / X",Sadness
+R018,Q11,35-44,Female,4,Daily,"Reddit, Twitter / X",Sadness
+R018,Q12,35-44,Female,4,Daily,"Reddit, Twitter / X",Funny
+R018,Q13,35-44,Female,4,Daily,"Reddit, Twitter / X",Anger
+R018,Q14,35-44,Female,4,Daily,"Reddit, Twitter / X",Fear / Anxiety
+R018,Q15,35-44,Female,4,Daily,"Reddit, Twitter / X",Anger
+R018,Q16,35-44,Female,4,Daily,"Reddit, Twitter / X",Anticipation
+R018,Q17,35-44,Female,4,Daily,"Reddit, Twitter / X",Hate
+R018,Q18,35-44,Female,4,Daily,"Reddit, Twitter / X",Love
+R018,Q19,35-44,Female,4,Daily,"Reddit, Twitter / X",Sarcasm
+R018,Q20,35-44,Female,4,Daily,"Reddit, Twitter / X",Disgust
+R019,Q01,35-44,Female,2,Weekly,"Instagram, TikTok",Distrust
+R019,Q02,35-44,Female,2,Weekly,"Instagram, TikTok",Anger
+R019,Q03,35-44,Female,2,Weekly,"Instagram, TikTok",Joy
+R019,Q04,35-44,Female,2,Weekly,"Instagram, TikTok",Distrust
+R019,Q05,35-44,Female,2,Weekly,"Instagram, TikTok",Disgust
+R019,Q06,35-44,Female,2,Weekly,"Instagram, TikTok",Fear
+R019,Q07,35-44,Female,2,Weekly,"Instagram, TikTok",Anger
+R019,Q08,35-44,Female,2,Weekly,"Instagram, TikTok",Anticipation
+R019,Q09,35-44,Female,2,Weekly,"Instagram, TikTok",Fear / Anxiety
+R019,Q10,35-44,Female,2,Weekly,"Instagram, TikTok",Surprise
+R019,Q11,35-44,Female,2,Weekly,"Instagram, TikTok",Distrust
+R019,Q12,35-44,Female,2,Weekly,"Instagram, TikTok",Funny
+R019,Q13,35-44,Female,2,Weekly,"Instagram, TikTok",Disgust
+R019,Q14,35-44,Female,2,Weekly,"Instagram, TikTok",Sarcasm
+R019,Q15,35-44,Female,2,Weekly,"Instagram, TikTok",Surprise
+R019,Q16,35-44,Female,2,Weekly,"Instagram, TikTok",Fear
+R019,Q17,35-44,Female,2,Weekly,"Instagram, TikTok",Sadness
+R019,Q18,35-44,Female,2,Weekly,"Instagram, TikTok",Trust
+R019,Q19,35-44,Female,2,Weekly,"Instagram, TikTok",Confusion
+R019,Q20,35-44,Female,2,Weekly,"Instagram, TikTok",Sarcasm
+R020,Q01,35-44,Female,3,Daily,"Instagram, Twitter / X",Disgust
+R020,Q02,35-44,Female,3,Daily,"Instagram, Twitter / X",Sadness
+R020,Q03,35-44,Female,3,Daily,"Instagram, Twitter / X",Joy
+R020,Q04,35-44,Female,3,Daily,"Instagram, Twitter / X",Confusion
+R020,Q05,35-44,Female,3,Daily,"Instagram, Twitter / X",Fear / Anxiety
+R020,Q06,35-44,Female,3,Daily,"Instagram, Twitter / X",Anticipation
+R020,Q07,35-44,Female,3,Daily,"Instagram, Twitter / X",Hate
+R020,Q08,35-44,Female,3,Daily,"Instagram, Twitter / X",Anticipation
+R020,Q09,35-44,Female,3,Daily,"Instagram, Twitter / X",Fear / Anxiety
+R020,Q10,35-44,Female,3,Daily,"Instagram, Twitter / X",Anger
+R020,Q11,35-44,Female,3,Daily,"Instagram, Twitter / X",Surprise
+R020,Q12,35-44,Female,3,Daily,"Instagram, Twitter / X",Joy
+R020,Q13,35-44,Female,3,Daily,"Instagram, Twitter / X",Anger
+R020,Q14,35-44,Female,3,Daily,"Instagram, Twitter / X",Sarcasm
+R020,Q15,35-44,Female,3,Daily,"Instagram, Twitter / X",Sarcasm
+R020,Q16,35-44,Female,3,Daily,"Instagram, Twitter / X",Fear
+R020,Q17,35-44,Female,3,Daily,"Instagram, Twitter / X",Sadness
+R020,Q18,35-44,Female,3,Daily,"Instagram, Twitter / X",Love
+R020,Q19,35-44,Female,3,Daily,"Instagram, Twitter / X",Joy
+R020,Q20,35-44,Female,3,Daily,"Instagram, Twitter / X",Disgust

@@ -1,0 +1,9 @@
+Cluster,Size,Emoji/100 chars (mean),Top terms,Platform mix,Modality mix
+0,647,6.552,"http, new, com, just, work, got, thanks, phone, ok, working, like, know","Twitter:0.941, Reddit:0.059","Text-only:0.941, Text+Image:0.059"
+1,1223,6.28,"work, day, today, home, going, good, sleep, just, morning, weekend, night, im","Twitter:0.972, Reddit:0.028","Text-only:0.978, Text+Image:0.022"
+2,1552,8.117,"just, oc, love, like, lol, know, thanks, haha, http, good, com, oh","Twitter:0.768, Reddit:0.232","Text-only:0.781, Text+Image:0.219"
+3,473,0.541,"like, just, don, feel, know, ve, want, time, relationship, really, things, years","Reddit:0.951, Twitter:0.049","Text-only:0.975, Text+Image:0.025"
+4,575,6.847,"just, headache, sick, hot, feel, hurts, got, eat, like, today, food, hungry","Twitter:0.948, Reddit:0.052","Text-only:0.96, Text+Image:0.04"
+5,1016,5.779,"miss, love, good, going, watching, wish, just, lol, sad, http, great, really","Twitter:0.969, Reddit:0.031","Text-only:0.97, Text+Image:0.03"
+6,259,5.781,"twitter, follow, tweet, followers, tweets, following, thanks, tweeting, facebook, lol, com, http","Twitter:0.981, Reddit:0.019","Text-only:0.981, Text+Image:0.019"
+7,221,6.484,"happy, day, mother, mothers, mother day, happy mother, mothers day, happy mothers, mom, birthday, moms, wars day","Twitter:0.923, Reddit:0.077","Text-only:0.928, Text+Image:0.072"

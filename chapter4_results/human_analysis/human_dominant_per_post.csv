@@ -1,0 +1,21 @@
+Post_ID,Dominant_Human_Emotion,Count,Total,Percent
+Q01,Fear / Anxiety,9,20,45.0
+Q02,Sadness,13,20,65.0
+Q03,Joy,20,20,100.0
+Q04,Sadness,8,20,40.0
+Q05,Sarcasm,5,20,25.0
+Q06,Sarcasm,6,20,30.0
+Q07,Sarcasm,9,20,45.0
+Q08,Anticipation,6,20,30.0
+Q09,Anger,6,20,30.0
+Q10,Anger,12,20,60.0
+Q11,Anger,5,20,25.0
+Q12,Joy,6,20,30.0
+Q13,Anger,12,20,60.0
+Q14,Sarcasm,11,20,55.00000000000001
+Q15,Anger,8,20,40.0
+Q16,Disgust,5,20,25.0
+Q17,Sadness,13,20,65.0
+Q18,Love,9,20,45.0
+Q19,Surprise,6,20,30.0
+Q20,Disgust,15,20,75.0

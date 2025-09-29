@@ -1,0 +1,9 @@
+Cluster,Size,Twitter%,Reddit%,Text-only%,Text+Image%,Image-only%,Emoji/100 (mean),Top terms (short)
+0,647,94.1,5.9,94.1,5.9,0.0,0.007,"http, new, com, just, work, got"
+1,1223,97.2,2.8,97.8,2.2,0.0,0.023,"work, day, today, home, going, good"
+2,1552,76.8,23.2,78.1,21.9,0.0,0.174,"just, oc, love, like, lol, know"
+3,473,4.9,95.1,97.5,2.5,0.0,0.008,"like, just, don, feel, know, ve"
+4,575,94.8,5.2,96.0,4.0,0.0,0.017,"just, headache, sick, hot, feel, hurts"
+5,1016,96.9,3.1,97.0,3.0,0.0,0.037,"miss, love, good, going, watching, wish"
+6,259,98.1,1.9,98.1,1.9,0.0,0.0,"twitter, follow, tweet, followers, tweets, following"
+7,221,92.3,7.7,92.8,7.2,0.0,0.01,"happy, day, mother, mothers, mother day, happy mother"

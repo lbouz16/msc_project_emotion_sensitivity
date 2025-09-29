@@ -1,0 +1,9 @@
+Cluster,Size,TopTerms,PlatformMix,ModalityMix
+2,1552,"oc, love, just, like, lol, know, thanks, http, haha, good, com, say","{""Twitter"": 1192, ""Reddit"": 360}","{""Text-only"": 1212, ""Text+Image"": 340}"
+1,1223,"work, day, today, home, going, good, sleep, morning, just, night, weekend, im","{""Twitter"": 1189, ""Reddit"": 34}","{""Text-only"": 1196, ""Text+Image"": 27}"
+5,1016,"miss, love, good, going, watching, wish, just, lol, http, song, sad, really","{""Twitter"": 984, ""Reddit"": 32}","{""Text-only"": 986, ""Text+Image"": 30}"
+0,647,"http, new, com, work, just, thanks, phone, got, ok, working, link, like","{""Twitter"": 609, ""Reddit"": 38}","{""Text-only"": 609, ""Text+Image"": 38}"
+4,575,"headache, sick, just, feel, hot, hurts, eating, eat, got, like, food, today","{""Twitter"": 545, ""Reddit"": 30}","{""Text-only"": 552, ""Text+Image"": 23}"
+3,473,"like, just, don, feel, know, ve, want, time, relationship, really, things, years","{""Reddit"": 450, ""Twitter"": 23}","{""Text-only"": 461, ""Text+Image"": 12}"
+6,259,"twitter, follow, tweet, followers, tweets, following, facebook, tweeting, lol, com, follower, thanks","{""Twitter"": 254, ""Reddit"": 5}","{""Text-only"": 254, ""Text+Image"": 5}"
+7,221,"happy, day, mother, mother day, mothers, happy mother, mothers day, happy mothers, mom, birthday, wars day, wars","{""Twitter"": 204, ""Reddit"": 17}","{""Text-only"": 205, ""Text+Image"": 16}"

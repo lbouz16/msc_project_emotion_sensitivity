@@ -1,0 +1,28 @@
+Post_ID,Text_Combined,sim_joy,sim_trust,sim_fear,sim_surprise,sim_sadness,sim_disgust,sim_anger,sim_anticipation,AI_Emotion
+Q01,That ‘we need to talk’ text at 3AM 😨,0.16360387,0.12151535,0.14588407,0.078568965,0.15778452,0.09124842,0.15814494,0.14345068,joy
+Q02,They didn’t even notice I left the group chat 😔 😔,0.14983496,0.110851556,0.14598508,0.16969635,0.16534814,0.14010239,0.21103251,0.13045713,anger
+Q03,That face you make when your plan actually works,0.23196858,0.17219901,0.17998241,0.17330286,0.18169999,0.12064643,0.14473814,0.21880628,joy
+Q04,"unopened pack of goat cheese starin me in the face. starving, din not til 6",0.14227527,0.098670766,0.14928451,0.1103724,0.1752083,0.23089574,0.20536284,0.15723494,disgust
+Q05,just fought with my printer...after 2 hours i claim victory... i hate electronics,0.15590905,0.054278277,0.11458974,0.08458427,0.15929657,0.14464393,0.21801242,0.09886253,anger
+Q06,"Can you explain the gap in your resume"" The gap in my resume:",0.058561765,0.09868436,0.08497852,0.1446993,0.06383008,0.06479269,0.108085856,0.12344445,surprise
+Q07,The never ending generational trama cyle  ME,0.20453283,0.15227076,0.18684201,0.07525011,0.23730765,0.16886334,0.19576287,0.14380962,sadness
+Q08,Counting the minutes when my dad`s g-friend is leaving,0.11132784,0.16062117,0.19834392,0.08202903,0.19397166,0.11182336,0.13982041,0.21261404,anticipation
+Q09,"My mother(f51) is giving me(f17)the silent treatment and I don't know what to do.
+
+Hello everyone. We are on a family vacation travelling home when we pop into a gas station for a little brake and to eat something because my father and I are hungry. My mother has told us that she doesn't want anything to eat or drink already. So we go to order while my mothers waiting at a table for us.bit when we get back she gets all frustrated about how no one asked her if she wanted anything to eat or drink. We tell her that she can eat from the pizza which we ordered a bigger size so we all can eat. She wasn't happy with that and stormed off without saying a word to me or my father. That's was around 1pm now it's 7mp and she hasn't talked to me since. 
+
+I have tried to talk to her but she only answers with ""yes"" and ""no"" or nothing. What should I do? 
+
+
+TL;DR: I(f18) am getting the silent treatment from my mother (f51) over a misunderstanding. She won't talk to me even if I try to start a small talk. What should I do?",0.04415569,0.045992058,0.08746418,0.054686747,0.071599565,0.07461552,0.16971013,0.04743951,anger
+Q10,Someone just bought the domain i planned on buying yesterday ****,0.14514178,0.13799515,0.16992547,0.15410157,0.15326402,0.17190358,0.18926135,0.1644912,anger
+Q11,Why does my boss have to come in today.....,0.1374198,0.12278035,0.20991606,0.08733159,0.19190204,0.13671905,0.18663579,0.17512769,fear
+Q12,subscription vs. one-time subscription,-0.016452588,0.0628461,-0.002101034,-0.051092084,-0.03539993,-0.01172301,0.004141243,0.055292044,trust
+Q13,"VAR is ruining the game, every goal takes 10 minutes to check 😡 absolute joke 😡",0.073085204,0.1179336,0.092979,0.09797156,0.08884287,0.09028581,0.17787166,0.09367953,anger
+Q14,British weather is just a personality disorder at this point,0.097243875,0.08288933,0.11179492,0.030886583,0.15023494,0.0708798,0.099134155,0.03885708,sadness
+Q15,When your Deliveroo says ‘arriving soon’ but it’s been an hour 😂 😂,0.18985382,0.1489328,0.15997104,0.17465216,0.18137486,0.15329406,0.23586214,0.2752538,anticipation
+Q16,Payday hits different when rent is due the same day 😭 😭,0.058810376,0.050757196,0.08208895,0.08401776,0.07083985,0.07907811,0.1239378,0.13909066,anticipation
+Q17,The way silence hits different after an argument…,0.13453647,0.12889105,0.16199845,0.16106865,0.1406015,0.10766131,0.16377538,0.08160007,anger
+Q18,"Best mate pulled through for me today, love him to bits 🤝 🤝",0.18149292,0.14305642,0.0756975,0.07417789,0.13665062,0.05229835,0.06038766,0.12844501,joy
+Q19,Not my ex texting me after 2 years 👀 👀,0.16402873,0.11357157,0.13690557,0.08841793,0.15728413,0.10527629,0.112689406,0.16005355,joy
+Q20,People who don’t wash their gym towel… vile 🤢 🤢,0.06947547,0.039186005,0.08637799,0.08512324,0.117205724,0.24382213,0.14387837,0.02099491,disgust
