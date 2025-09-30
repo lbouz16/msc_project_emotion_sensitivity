@@ -6,8 +6,7 @@ This repository contains all code, data, and outputs for the MSc Data Science di
 
 **Uncovering Emotional Cues in Online Interactions: A Comparative Study of Human and AI Sensitivity Using Multimodal Data**
 
-##Repository Structure:
-
+## Repository Structure
 msc_project_emotion_sensitivity/
 │
 ├── data/                     # Core dataset (CSV)
@@ -36,6 +35,7 @@ msc_project_emotion_sensitivity/
 │
 ├── README.md                 # This file
 └── requirements.txt          # List of dependencies
+
 
 ---
 
