@@ -6,7 +6,7 @@ This repository contains all code, data, and outputs for the MSc Data Science di
 
 **Uncovering Emotional Cues in Online Interactions: A Comparative Study of Human and AI Sensitivity Using Multimodal Data**
 
-**Repository Structure:**
+##Repository Structure:
 
 msc_project_emotion_sensitivity/
 │
@@ -30,12 +30,12 @@ msc_project_emotion_sensitivity/
 │   ├── human_annotation_forms.ipynb
 │   ├── analysis_clustering_annotation.ipynb
 │   ├── 04_results_analysis.ipynb
-│   └── 04_results_analysis_2.ipynb # main file to run <<
+│   └── 04_results_analysis_2.ipynb   # Main file to run
 │
 ├── bertopic_outputs/         # Optional outputs for topic modeling
 │
 ├── README.md                 # This file
-└── requirements.txt          # list of dependencies
+└── requirements.txt          # List of dependencies
 
 ---
 
@@ -48,11 +48,12 @@ pip install -U sentence-transformers umap-learn scikit-learn pandas numpy matplo
 
 ---
 
-**How to Run**
+	How to Run
 
 	1.	Clone the repo:
-  git clone https://github.com/lbouz16/msc_project_emotion_sensitivity.git
-  cd msc_project_emotion_sensitivity
+
+	git clone https://github.com/lbouz16/msc_project_emotion_sensitivity.git
+  	cd msc_project_emotion_sensitivity
 
   2. Open Jupyter / Colab and run notebooks in this order:
 
@@ -75,18 +76,18 @@ pip install -U sentence-transformers umap-learn scikit-learn pandas numpy matplo
 	  •	04_results_analysis_2.ipynb – Cluster profiling, exemplars, human vs AI comparison.
 
     Outputs:
-    **•	chapter4_results/:**
+		•	chapter4_results/:
 	      •	k_sweep_metrics.csv (clustering performance metrics)
 	      •	cluster_profiles.csv & cluster_profiles_readable.csv
 	      •	cluster_exemplars_k8.csv
 	      •	Figures (.png) for cluster sizes, platform/modality breakdowns
-	  **•	annotation_forms/:**
+	    •	annotation_forms/:
 	      •	annotation_items_form_A.csv / annotation_items_form_B.csv
 	      •	annotation_key.csv
-	  **•	embeddings/:**
+	    •	embeddings/:
 	      •	sbert_embeddings.npy (cached SBERT embeddings for reproducibility)
 
-**Reproducibility Notes**
+  Reproducibility Notes
 	•	All notebooks now use repo-relative paths via 00_bootstrap_paths.ipynb.
 	•	No Google Drive mounting is required.
 	•	Running end-to-end will regenerate embeddings, clusterings, and results.
